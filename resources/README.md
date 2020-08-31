@@ -2,7 +2,7 @@ Please contact the following sponsors for additional information or assitance wi
 
 **Carson Davis**
 * Areas of Expertise: Computer Sciences, Machine Learning
-* Email: CarsonReidDavis@gmail.com 
+* Email: Carson.Davis@nasa.gov 
 
 
 **Kumar Muthukumaran**

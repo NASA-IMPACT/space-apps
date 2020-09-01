@@ -1,25 +1,24 @@
-Please contact the following sponsors for additional information or assitance with the challenge and the resources made available through this repo
+# Resources
+Please contact the following sponsors for additional information or assistance with the challenge and the resources made available through this repository.
 
 **Carson Davis**
-* Areas of Expertise: Computer Sciences, Machine Learning
-* Email: Carson.Davis@nasa.gov 
-
-
-**Kumar Muthukumaran**
-* Areas of Expertise: Machine Learning, Computer Sciences
-* Email: mr0051@uah.edu
-
-
-**Prasana Koirala**
-* Areas of Expertise: Computer Sciences, Machine Learning 
-* Email: pk0051@uah.edu
-
+* Primary Contact
+* Computer Science, Machine Learning
+* Carson.Davis@nasa.gov 
 
 **Aaron Kaulfus**
-* Areas of Expertise: Atmosphere and Earth Sciences
-* Email: aaron.s.kaulfus@nasa.gov
+* Primary Contact
+* Atmosphere and Earth Science
+* aaron.s.kaulfus@nasa.gov
 
+**Kumar Ramasubramanian**
+* Machine Learning, Computer Science
+* mr0051@uah.edu
+
+**Prasana Koirala**
+* Computer Science, Machine Learning 
+* pk0051@uah.edu
 
 **Ankur Shah**
-* Areas of Expertise: Atmosphere and Earth Sciences, Machine Learning 
-* Email: aas0024@uah.edu
+* Atmosphere and Earth Science, Machine Learning 
+* aas0024@uah.edu

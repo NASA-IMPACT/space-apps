@@ -1,4 +1,3 @@
-This repository will provide an exhaustive list of resources available to download and use datasets from NASA and NOAA. Along with links for the datasets, we have provided example code for downloading certain data and creating detection models using machine learning. 
-We created this repository for your convenience in order to minimize time spent on research and data searching. <br>
+# Training Data
 
-For this challenge, you will require satellite imagery datasets. You may choose to label your own imagery using our application, ImageLabeler or use existing labeled datasets. For accessing labeled datasets, use the links provided in the labeled sub-folder. The resources to obtain your image datasets for labeling are provided in the ‘raw’  sub-folder. <br>
+Selected pre-labeled data is available in the [labeled folder](labeled/), or participants may choose to use the resources in the [raw folder](raw/) to access a broader range of data and label it themselves or with our included tool ImageLabler. <br> 

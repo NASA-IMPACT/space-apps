@@ -37,5 +37,9 @@ Monitoring surface air quality helps ensure the protection of human health and p
 7. TMP: Temperature recorded from HRRR
 8. goes_measurement: AOD reading from GOES R
 
-[Air Quality Data](https://drive.google.com/file/d/1HVDdrwofAtRD1zTI4HWl1xcOJbQauUdz/view?usp=sharing)
+[Air Quality Data](s3://impact-datashare/pm2.5-labeled)
 
+# How to download data from aws s3 buckets
+
+1. Download and install AWS Command Line Interface (CLI). More information can be found [here](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html).
+2. use `aws s3 cp <s3://link/to/folder/>  <path/to/save> --recursive --no-sign-request`

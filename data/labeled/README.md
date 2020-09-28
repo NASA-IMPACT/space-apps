@@ -4,25 +4,25 @@ This document provides example phenomena which have labeled datasets. You may ch
 ## Transverse Cirrus Bands (TCB) 
 
 TCBs are bands of clouds oriented perpendicular to the atmospheric flow in which they are embedded. TCBs are often an indicator of strong turbulence and often associated with severe weather such as hurricanes and thunderstorms or atmospheric jets.
-* [Image Labeler Transverse Cirrus Bands Data](https://labeler.nasa-impact.net/images/transverse-cirrus-band/yes)
+* [Image Labeler Transverse Cirrus Bands Data](s3://impact-datashare/transverse_bands/)
 
 
 ## Cloud Streets
 
 Cloud streets are extended lines of cumulus clouds oriented parallel to the atmospheric flow. Cloud streets are known to be significant to the vertical transport of heat, moisture, air pollutants, and momentum within the atmosphere. 
-* [Image Labeler Cloud Streets Data](https://labeler.nasa-impact.net/images/cloud-streets/yes)
+* [Image Labeler Cloud Streets Data](s3://impact-datashare/cloudstreet)
 
 
 ## High Latitude Dust
 
 High Latitude Dust (HLD) consists of a mixture of solid and liquid particles suspended in the atmosphere varying in composition, source and size. Dust storms and transport can have extensive climate and societal impacts.
-* [HLD Data](https://drive.google.com/file/d/1HnsBrtbfX2KrMbxYksnN0jdsuGL9TcsT/view)
+* [HLD Data](s3://impact-datashare/hld-labeled)
 
 
 ## Biomass Burning Smoke
 
 Smoke is the mixture of gas and particulates in the atmosphere resulting from the combustion of biomass. Smoke from events such as wildfires and agricultural burning may be transported thousands of kilometers and causes numerous health impacts. The training and validation folders can be found using the link provided. The files are in the .tif and .bmp formats.
-* [Smoke Data](https://drive.google.com/file/d/1B_IrWHc6Jfj7uf6pbc94mv7o0LZrx2Yk/view)
+* [Smoke Data](s3://impact-datashare/smoke-labeled)
 
 ## Air Quality Data
 
